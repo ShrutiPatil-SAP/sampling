@@ -10,12 +10,13 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Shruti Patil
 
 ```
 Please write your explanation here...
 
-```
+```Reducing the repetitions to 1,000 decreased computational load but introduced slight variability in graph results due to a smaller sample size. After setting the repetitions to 1,000, I ran the script multiple times to observe the outputted graphs. I noticed that with each run, there were minor variations in the histogram bars, particularly in the heights of the bars (frequency counts) for both Infections from Weddings and Traced to Weddings. This variability is expected due to the random sampling used in the simulation, and it highlights how a lower number of repetitions can increase variability.
+To make the code reproducible, I added a fixed random seed at the beginning of the script. This ensured that every random operation produced the same results across runs.Adding a fixed seed ensured that random sampling produced the same results every time, achieving reproducibility. Now, every run of the script produces identical output graphs, regardless of the inherent randomness in sampling.This process helped demonstrate the importance of controlling random factors in simulations, especially when seeking reproducible results in smaller-scale simulations.
 
 
 ## Criteria
