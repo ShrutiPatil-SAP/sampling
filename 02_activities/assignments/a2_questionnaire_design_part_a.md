@@ -31,6 +31,8 @@ Sampling Frame: All employees in entry- and lower-level roles who have worked at
 
 Sampling Units: Individual employees, both current and former, at the entry and lower levels.
 
+Observational Units: Each individual survey respondent (both current and former employees in entry- and lower-level positions at the company).
+
 Sampling Strategy: Stratified random sampling, dividing respondents into two strata: current employees and recently departed employees. This approach will allow us to compare responses from those who are still employed with those who have left, helping us better understand turnover factors and potential solutions.
 
 ```
