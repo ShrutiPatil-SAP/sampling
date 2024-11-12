@@ -16,29 +16,37 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
 write your answer here...
-```
+The purpose of this survey is to understand the factors contributing to employee turnover at a large tech company. The survey aims to identify specific areas where employees may be dissatisfied and gather insights into what changes could improve employee retention, particularly in entry- and lower-level positions.
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
-```
+Target Population: Current and former employees in entry- and lower-level positions at the tech company.
 
+Sampling Frame: All employees in entry- and lower-level roles who have worked at the company within the past year, including those who have recently left.
+
+Sampling Units: Individual employees, both current and former, at the entry and lower levels.
+
+Observational Units: Each individual survey respondent (both current and former employees in entry- and lower-level positions at the company).
+
+Sampling Strategy: Stratified random sampling, dividing respondents into two strata: current employees and recently departed employees. This approach will allow us to compare responses from those who are still employed with those who have left, helping us better understand turnover factors and potential solutions.
+
+```
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
+1. How long have you worked at the company?
+2. What were your primary reasons for joining the company?(giving multiple choice options here)
+3. If you have considered leaving (or have already left), what were the main reasons?(giving multiple choice options here)
+4. What aspects of your job do you find most fulfilling?
+5. On a scale of 1 to 5, how satisfied are/were you with your current/past role?
+6. How would you rate the quality of management and leadership in your department?
+7. Do you feel that your work is valued and appreciated by the company?
+8. What changes would make you more likely to stay at the company?
+9. 
 10. write your question here... (optional)
 ```
 
