@@ -4,19 +4,58 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+Answer: The quality of the sample in this survey design will be strong, given the use of stratified random sampling with strata for both current employees and those who have recently departed. This approach increases the chances of capturing a range of experiences and perspectives, providing a fuller picture of the factors behind employee turnover.The sample is expected to be representative of the target population, as it includes individuals from both still employed individuals and those who have left within the past year. Including recent departures is particularly important, as these individuals may provide insights into reasons for turnover that current employees may not disclose. However, it’s possible that former employees who felt especially dissatisfied or disconnected might be less likely to participate, which could introduce some response bias. Efforts to reach out to all eligible individuals and assure confidentiality can help mitigate this potential bias, enhancing sample quality and representativeness.
+
+
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+ Revised Survey Questions
+How long have you worked at the company?
+No change, as it provides useful context for responses.
+
+What were your primary reasons for joining the company? 
+Options: Career growth, Company reputation, Salary and benefits, Work-life balance, Job security, Learning and development opportunities, Others.
+Change: Added more specific options to help quantify the primary motivations accurately.
+
+If you have considered leaving (or have already left), what were the main reasons? (Select all that apply)
+Options: Inadequate salary, Lack of career advancement, Poor work-life balance, Unsatisfactory management, Job stress, Lack of recognition, Lack of training, Other .
+Change: Expanded the list to capture a wider variety of factors.
+
+What aspects of your job do you find most fulfilling? (Select all that apply)
+Options: Nature of work, Team collaboration, Opportunities to learn, Positive feedback, Contribution to company goals, Others (please specify).
+Change: Added more specific options to allow for more structured responses, improving data quality.
+
+On a scale of 1 to 5, how satisfied are/were you with your current/past role?
+No change, as it provides clear, quantifiable satisfaction data.
+
+How would you rate the quality of management and leadership in your department?
+Options: Excellent, Good, Fair, Poor, Very Poor.
+Change: Specified a clear scale to reduce ambiguity in responses.
+
+Do you feel that your work is valued and appreciated by the company?
+Options: Strongly agree, Agree, Neutral, Disagree, Strongly disagree.
+Change: Rephrased to align with a 5-point Likert scale for consistency with other scaled questions.
+
+What changes would make you more likely to stay at the company? (Select all that apply)
+Options: Improved salary, Career growth opportunities, Better work-life balance, Enhanced benefits, Improved management, Increased recognition, More learning opportunities, Other (please specify).
+Change: Added specific options to help identify high-priority areas for retention improvements.
+
+Do you feel comfortable raising concerns or issues with your supervisor/management?
+Options: Always, Often, Sometimes, Rarely, Never.
+New question: This question addresses whether employees feel supported in expressing concerns, which may be a factor in turnover.
+
+
+
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+An observational study could identify patterns related to turnover but would lack the subjective and prescriptive insights necessary to fully understand and address the reasons behind employee turnover.
+while observational data could reveal certain patterns or trends related to turnover, it lacks the depth and specificity needed to address the root causes. A survey allows employees to share their experiences, perceptions, and suggestions directly, providing a comprehensive understanding of the factors driving turnover and insights on how to create a more supportive and satisfying work environment. This direct feedback is essential for making informed decisions on interventions that can enhance employee satisfaction and retention.
     ```
 
 ## Why am I doing this assignment?
